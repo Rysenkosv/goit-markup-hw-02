@@ -1,0 +1,75 @@
+.header {}
+
+.header__nav {}
+
+.header__logo {}
+
+.header__menu {}
+
+.menu__item {}
+
+.menu__link {}
+
+.header__contact {}
+
+.contact__list {}
+
+.contact__item {}
+
+.contact__link {}
+
+.main-content {}
+
+.hero {}
+
+.hero__title {}
+
+.hero__button {}
+
+.services {}
+
+.services__title {}
+
+.hidden {}
+
+.services__list {}
+
+.services__item {}
+
+.services__subtitle {}
+
+.services__text {}
+
+.team {}
+
+.team__title {}
+
+.team__list {}
+
+.team__member {}
+
+.team__photo {}
+
+.team__name {}
+
+.team__role {}
+
+.portfolio {}
+
+.portfolio__title {}
+
+.portfolio__list {}
+
+.portfolio__item {}
+
+.portfolio__image {}
+
+.portfolio__name {}
+
+.portfolio__category {}
+
+.footer {}
+
+.footer__logo {}
+
+.footer__text {}
