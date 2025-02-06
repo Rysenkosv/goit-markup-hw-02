@@ -54,8 +54,8 @@ body{font-family: "Roboto", sans-serif;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;}
-    .contact__link:hover{color: #404bbf;}
-
+        .contact__link:hover{color: #404bbf;}
+.contact__link:focus{color: #404bbf}
 .main-content {}
 
 .hero {background-color:#2e2f42}
@@ -98,14 +98,16 @@ body{font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     color: #434455;}
 
-.team {}
+.team {background-color: #F4F4FD;}
 
 .team__title {font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #2e2f42;}
+    color: #2e2f42;
+text-transform: capitalize;
+}
 
 .team__list {}
 
@@ -156,11 +158,11 @@ body{font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     color: #434455;}
 
-.footer {}
+.footer {background-color:#2e2f42;}
 .footer__logo{font-family: "Raleway", sans-serif;
 font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;}
